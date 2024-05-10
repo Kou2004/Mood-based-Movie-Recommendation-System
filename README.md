@@ -27,5 +27,6 @@ The following table summarizes the accuracy scores achieved by different models 
 We are planning to add face based mood recognition as well. Try to introduce more genres for more robust movie recommendation system.
 
 **Contributors**
-1. Mritunjay Singh, 2nd year, EE, IIT Roorkee
+1. Mrityunjay Singh, 2nd year, EE, IIT Roorkee
 2. Kousik Kumar Barnwal, 2nd year, CH, IIT Roorkee
+   
