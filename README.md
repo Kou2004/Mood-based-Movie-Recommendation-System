@@ -1,5 +1,6 @@
 # Mood-Based Movie Recommendation System
-
+Detailed explanation :
+https://medium.com/@indubarnwal752/mood-based-movie-recommendation-system-part-1-0466bdf059a2
 ## Objective
 The objective of this project is to develop a mood-based movie recommendation system that suggests movies or TV shows based on the user's current emotional state. The system leverages facial expressions, text inputs, and audio cues to determine the user's mood and provide personalized content recommendations.
 
